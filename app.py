@@ -34,7 +34,7 @@ def generate_text(prompt, model, max_tokens=200, temperature=0.7, style=None, is
     return response.choices[0].text.strip()
 
 
-st.set_page_config(page_title="Ассистент Атома", page_icon="🧊", layout="wide")
+st.set_page_config(page_title="ThinkForge", page_icon="🧊", layout="wide")
 
 st.markdown("""
     <style>
