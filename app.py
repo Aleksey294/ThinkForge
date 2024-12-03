@@ -10,8 +10,8 @@ client = OpenAI(
 # Словарь для выбора модели в зависимости от темы
 model_mapping = {
     "Код: Qwen-Coder": "lmstudio-community/Qwen2.5-Coder-7B-Instruct-GGUF/Qwen2.5-Coder-7B-Instruct-Q4_K_M.gguf",
-    "Текст: Vikhr-Qwen-ru": "lmstudio-community/Qwen2.5-Coder-7B-Instruct-GGUF/Qwen2.5-Coder-7B-Instruct-Q4_K_M.gguf",
-    "Математика: Qwen-Math": "lmstudio-community/Qwen2.5-Coder-7B-Instruct-GGUF/Qwen2.5-Coder-7B-Instruct-Q4_K_M.gguf"
+    "Текст: Vikhr-Qwen-ru": "lmstudio-community/Vikhr-Qwen-2.5-1.5B-Instruct-GGUF/Vikhr-Qwen-2.5-1.5b-Instruct-Q4_0.gguf",
+    "Математика: Qwen-Math": "lmstudio-community/Qwen2-Math-1.5B-Instruct-GGUF/Qwen2-Math-1.5B-Instruct-Q4_K_M.gguf"
 }
 
 
