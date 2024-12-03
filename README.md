@@ -25,4 +25,5 @@ streamlit run app.py
 ```
 
 ## Необходимые приложения:
-LM Studio или Doker (в зависимости где находится LLM, которую Вы используете)
+LM Studio с установленными моделями:
+Qwen-Coder, Vikhr-Qwen, Qwen-Math
